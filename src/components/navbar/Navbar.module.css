@@ -1,0 +1,41 @@
+@media (max-width: 770px){
+	.nav1{
+		grid-area: n ;
+		
+		padding: 30px;
+		min-height: 100vh;
+		background-color: rgba(0, 0, 0, 0.541);
+		margin-left: 5vh ;
+		display: none;
+		
+	}
+}
+.nav1{
+	grid-area: n ;
+	
+	padding-top: 10px;
+	min-height: 94vh;
+	background-color: rgba(0, 0, 0, 0.541);
+	margin-left: 10vw ;
+	
+	
+}
+.coals__nav{
+	display: flex;
+	align-items: center;
+	
+	margin: 30px;
+	padding: 4px;
+	border-bottom: 2px solid white;
+	color: rgb(255, 255, 255);
+	font-size: 2vh;
+	text-align: left;
+	
+}
+.coals__nav__head{
+	font-size: 2vh;
+	text-align: center;
+	color: rgb(255, 255, 255);
+	margin: 30px;
+	padding: 4px;
+}

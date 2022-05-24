@@ -1,0 +1,21 @@
+.stone{
+	background-color: rgba(0, 0, 0, 0.747);
+	padding-top:60px ;
+	color: white;
+	min-height: 100vh;
+	margin-right: 10vw;
+	text-align: justify;
+	
+	
+}
+img{
+	float: left;
+	
+	width: 20vw;
+	
+}
+.price{
+	
+	
+	width: 40vw;
+}

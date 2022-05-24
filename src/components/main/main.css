@@ -1,0 +1,27 @@
+.main{
+	grid-area: m ;
+	margin-right: 10vw;
+	
+
+	color:rgb(0, 0, 0);
+	background-color: rgba(240, 248, 255, 0.712);
+	min-height: 100vh;
+}
+h3{
+	text-align: center;
+}
+.degods{
+	height: 20vw;
+	width: 100%;
+	display: flex;
+	align-items: center;
+	
+}
+p{
+	margin: 15px;
+	text-align: justify;
+	font-size: 1em;
+}
+.header__mini{
+	font-size: 1.5em;
+}

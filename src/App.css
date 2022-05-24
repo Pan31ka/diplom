@@ -1,0 +1,28 @@
+.placement{
+	
+	
+	display: grid;
+	grid-template-areas:
+	"h h"
+	"n m";
+	
+	grid-template-rows: 60px 1fr;
+    grid-template-columns: 2fr 10fr;
+
+
+}
+@media (max-width: 770px){
+	.placement{
+		display: grid;
+	grid-template-areas:
+	"h h"
+	"m m";
+	
+	}
+}
+.flex{
+	display: flex;
+	flex-direction: column;
+
+	
+}
